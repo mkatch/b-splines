@@ -19,7 +19,7 @@ int hoverKnot = -1;
 boolean hoverBlossomParam = false;
 
 void setup() {
-    size(800, 600);//, PDF, "/Users/mkacz/Desktop/spline.pdf");
+    size(800, 600);
     sliderBegX = 100;
     sliderEndX = width - 100;
     sliderY = height - 100;
